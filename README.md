@@ -1,1 +1,1 @@
-# bitcoinPriceModel
+# Hedging strategies
